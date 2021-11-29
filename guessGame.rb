@@ -1,4 +1,4 @@
-#!usr/bin/enc ruby
+#!usr/bin/env ruby
 
 puts "--------------------------"
 puts "|   Ruby Guessing Game    |"
